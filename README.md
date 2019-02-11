@@ -19,7 +19,7 @@ node service
 Url:http://localhost:3000
 
 
-Similar project craeted and pushed to heroku server Find it below
+Similar project i created  and pushed to heroku server Find it below
 
 http://peaceful-dusk-34953.herokuapp.com/
 
