@@ -12,7 +12,7 @@ npm install
 
 2.Launch development server:
 
-npm start
+node service
 
 3.To start server 
 
